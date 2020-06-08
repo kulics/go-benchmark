@@ -1,1 +1,1 @@
-# gobenchmark
+# go-benchmark
